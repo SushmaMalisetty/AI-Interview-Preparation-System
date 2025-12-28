@@ -1,23 +1,5 @@
-# Dependencies
 node_modules/
-
-# Environment variables
 .env
-
-# Logs
 logs/
-*.log
 npm-debug.log*
-
-# OS files
-.DS_Store
-
-# Editor files
-.vscode/
-.idea/
-
-# Database / Prisma (if used later)
-prisma/migrations/
-
-# Uploads (if any)
-uploads/
+yarn-error.log*
